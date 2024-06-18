@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bradley S. Johnson - Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bradley S Johnson</h1>
+        <p>Contact Information:</p>
+        <ul>
+            <li>Phone: 832-800-5460</li>
+            <li>Email: <a href="mailto:brdlysjhnsn@gmail.com">brdlysjhnsn@gmail.com</a></li>
+            <li>Location: Kingwood, TX</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/bradleyjohnson-BSIT">linkedin.com/in/bradleyjohnson-BSIT</a></li>
+        </ul>
+        <h2>Professional Summary</h2>
+        <p>Experienced sales and management professional with excellent communication, verbal, and writing skills. Seeking a company to utilize acquired knowledge and finish my career.</p>
+        <p>Information Systems Management: Understanding of implementation and maintenance for sustaining systems.</p>
+        <h2>Education</h2>
+        <ul>
+            <li>BS Computer Science, IT Management | Western Governors University (2024)</li>
+            <li>AAS Microsoft Networking - MSP, Advanced HTI - Certificate, Cisco Academy - CCNA track | Lone Star College (NHMCCD) (2003, 2005, 2008)</li>
+        </ul>
+        <!-- ... Continue with other sections (AWS, certifications, awards, work experience, etc.) -->
+    </div>
+    <!-- ... Previous content (up to Education section) ... -->
+
+<h2>Certifications</h2>
+<ul>
+    <li>AWS Foundations | Amazon (2023)</li>
+    <li>Project+ | CompTIA (2023)</li>
+    <li>Linux Essentials | LPI (2022)</li>
+    <li>Security+ | CompTIA (2021)</li>
+    <li>Network+ | CompTIA (2021)</li>
+    <li>A+ | CompTIA (2020)</li>
+    <li>ITIL v3 | Axelos (2020)</li>
+    <li>Site Development Practitioner | CIW (2019)</li>
+</ul>
+
+<h2>Awards</h2>
+<ul>
+    <li>Sword and Shield Award | WGU (2022)</li>
+    <li>Triple Crown Award | Albertsons (1999)</li>
+    <li>Texas Navy Award | State of Texas (1999, 2000)</li>
+</ul>
+
+<h2>Technical Skills</h2>
+<p>Strong technical and analytical abilities with a basic understanding of Cloud (AWS), SQL, HTML, CSS, and JavaScript. Comfortable using Windows, Linux, and MacOS.</p>
+
+<h2>Work Experience</h2>
+<h3>Health Giver | Mother’s Caregiver (2019-2024)</h3>
+<p>Lost of eyesight has rendered my mother house-bound. I am her butler, cook, and driver.</p>
+
+<h3>Assistant Manager | Sears (2011 - 2016)</h3>
+<p>Open/close store, handle bank deposits, manage staffing, training, scheduling, merchandising, inventory, and address customer/employee complaints.</p>
+
+<h3>Zone Manager | Walmart (2001 - 2011)</h3>
+<p>Oversee 10 departments in a $100 million+ location. Customer-focused, supervise associates, create teams, manage inventory, and handle various responsibilities throughout the facility.</p>
+
+</body>
+</html>

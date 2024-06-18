@@ -1,0 +1,40 @@
+* {
+    background-color: darkorange;
+}
+div {
+    text-align: center;
+}
+h2 {
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    color: red;
+}
+aside {
+    text-align: center;
+}
+
+title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 6rem;
+    text-shadow: 3px 3px red;
+    position: relative;
+}
+
+h3 {
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 1px 1px black;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
